@@ -38,11 +38,6 @@ ul {
   list-style: none;
 }
 
-.g-recaptcha {
-    visibility: hidden;
-    pointer-events: none;
-}
-
 /* =====================================================
    GLOBAL TYPOGRAPHY (MOBILE)
 ===================================================== */
